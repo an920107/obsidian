@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0c39c2de3016944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/美化/ZSH 終端機美化.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/美化/ZSH 終端機美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/美化/ZSH 終端機美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/美化/ZSH 終端機美化.md"
               }
             }
           },
@@ -136,13 +149,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "43517bca06d22d63",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +176,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "38f4ff78d54db056",
+  "active": "43517bca06d22d63",
   "lastOpenFiles": [
-    "2023-03-23.md",
+    "Linux/技術",
+    "Linux/美化/ZSH 終端機美化.md",
     "README.md",
+    "Linux/美化",
+    "Linux",
+    "2023-03-23.md",
     "Excalidraw/Drawing 2023-03-23 13.46.29.excalidraw.md",
     "Excalidraw",
     "2023-03-22.md",
