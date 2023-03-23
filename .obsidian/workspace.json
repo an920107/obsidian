@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/美化/ZSH 終端機美化.md",
+                "file": "Linux/外觀/終端機美化.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5c6439f83a62b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/技術/修改 apt 鏡像站.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/美化/ZSH 終端機美化.md",
+                "file": "Linux/技術/修改 apt 鏡像站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/美化/ZSH 終端機美化.md",
+                "file": "Linux/技術/修改 apt 鏡像站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/美化/ZSH 終端機美化.md"
+                "file": "Linux/技術/修改 apt 鏡像站.md"
               }
             }
           },
@@ -176,12 +188,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "43517bca06d22d63",
+  "active": "aa5c6439f83a62b2",
   "lastOpenFiles": [
+    "Linux/外觀/終端機美化.md",
+    "Linux/技術/修改 apt 鏡像站.md",
     "Linux/技術",
-    "Linux/美化/ZSH 終端機美化.md",
     "README.md",
-    "Linux/美化",
+    "Linux/外觀",
     "Linux",
     "2023-03-23.md",
     "Excalidraw/Drawing 2023-03-23 13.46.29.excalidraw.md",
