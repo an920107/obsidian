@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/技術/架設網頁伺服器.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -144,9 +144,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "155651495e1cd0f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -155,10 +163,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
-      "switcher:開啟快速切換": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false
@@ -166,10 +175,11 @@
   },
   "active": "a0c39c2de3016944",
   "lastOpenFiles": [
-    "Linux/技術/修改 apt 鏡像站.md",
-    "Linux/外觀/終端機美化.md",
     "Linux/技術/Linux 基礎.md",
+    "Linux/技術/修改 apt 鏡像站.md",
     "Linux/技術/架設網頁伺服器.md",
+    "Linux/外觀/終端機美化.md",
+    "2023-03-24.md",
     "Linux/技術",
     "README.md",
     "Linux/外觀",
