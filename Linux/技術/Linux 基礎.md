@@ -125,6 +125,7 @@
     - `sudo apt upgrade`：更新所有套件
     - `sudo apt install <package-name>`：安裝特定的套件
     - `sudo apt remove <package-name>`：移除特定的套件
+    > [[修改 apt 鏡像站|關於 apt 鏡像站的修改方式]]
 
 ## 權限管理
 
