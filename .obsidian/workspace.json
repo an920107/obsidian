@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/技術/架設網頁伺服器.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,9 +174,9 @@
   },
   "active": "a0c39c2de3016944",
   "lastOpenFiles": [
-    "Linux/技術/Linux 基礎.md",
     "Linux/技術/修改 apt 鏡像站.md",
     "Linux/技術/架設網頁伺服器.md",
+    "Linux/技術/Linux 基礎.md",
     "Linux/外觀/終端機美化.md",
     "2023-03-24.md",
     "Linux/技術",
