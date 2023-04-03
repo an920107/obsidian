@@ -11,15 +11,36 @@
             "id": "a0c39c2de3016944",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad6470ef4fc22cee",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/技術/架設網頁伺服器.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f12d09acab97d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鹿兒島見學/心得.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "鹿兒島見學/心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "鹿兒島見學/心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "鹿兒島見學/心得.md"
               }
             }
           },
@@ -158,37 +179,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:開啟今天的每日筆記": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "43517bca06d22d63",
+  "active": "07f12d09acab97d1",
   "lastOpenFiles": [
     "Linux/技術/架設網頁伺服器.md",
+    "鹿兒島見學/心得.md",
+    "鹿兒島見學",
     "Linux/技術/修改 apt 鏡像站.md",
     "Linux/技術/Linux 基礎.md",
+    "Excalidraw/Drawing 2023-03-24 15.35.06.excalidraw.md",
+    "未命名.canvas",
+    "README.md",
     "Linux/外觀/終端機美化.md",
     "2023-03-24.md",
     "Linux/技術",
-    "README.md",
-    "Linux/外觀",
-    "Linux",
-    "2023-03-23.md",
-    "Excalidraw/Drawing 2023-03-23 13.46.29.excalidraw.md",
-    "Excalidraw",
-    "2023-03-22.md",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "Linux/外觀"
   ]
 }
