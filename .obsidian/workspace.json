@@ -21,9 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
-                "mode": "source",
+                "file": "演算法/Karatsuba 與傳統大數相乘.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "48a4d1703ca008a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/螢幕擷取畫面 2023-04-05 222834.png"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "演算法/Karatsuba 與傳統大數相乘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "演算法/Karatsuba 與傳統大數相乘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鹿兒島見學/心得報告.md"
+                "file": "演算法/Karatsuba 與傳統大數相乘.md"
               }
             }
           },
@@ -184,14 +194,24 @@
   },
   "active": "ad6470ef4fc22cee",
   "lastOpenFiles": [
+    "images/螢幕擷取畫面 2023-04-05 222834.png",
+    "演算法/Karatsuba 與傳統大數相乘.md",
+    "README.md",
+    "images/Pasted image 20230405224435.png",
+    "images/Pasted image 20230405224319.png",
     "鹿兒島見學/心得報告.md",
+    "Pasted image 20230405223831.png",
+    "images/Pasted image 20230405223346.png",
+    "images",
+    "演算法/大數乘法/未命名.md",
+    "演算法/大數乘法",
+    "演算法",
     "Linux/技術/架設網頁伺服器.md",
     "鹿兒島見學",
     "Linux/技術/修改 apt 鏡像站.md",
     "Linux/技術/Linux 基礎.md",
     "Excalidraw/Drawing 2023-03-24 15.35.06.excalidraw.md",
     "未命名.canvas",
-    "README.md",
     "Linux/外觀/終端機美化.md",
     "2023-03-24.md",
     "Linux/技術",
