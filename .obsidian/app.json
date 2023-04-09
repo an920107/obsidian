@@ -4,5 +4,11 @@
     "en-US"
   ],
   "livePreview": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

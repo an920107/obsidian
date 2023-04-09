@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "演算法/Karatsuba 與傳統大數相乘.md",
-                "mode": "preview",
+                "file": "鹿兒島見學/心得報告.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/Karatsuba 與傳統大數相乘.md",
+                "file": "鹿兒島見學/心得報告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演算法/Karatsuba 與傳統大數相乘.md",
+                "file": "鹿兒島見學/心得報告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演算法/Karatsuba 與傳統大數相乘.md"
+                "file": "鹿兒島見學/心得報告.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "ad6470ef4fc22cee",
   "lastOpenFiles": [
-    "images/螢幕擷取畫面 2023-04-05 222834.png",
     "演算法/Karatsuba 與傳統大數相乘.md",
+    "images/螢幕擷取畫面 2023-04-05 222834.png",
     "README.md",
     "images/Pasted image 20230405224435.png",
     "images/Pasted image 20230405224319.png",
