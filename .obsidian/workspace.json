@@ -11,14 +11,6 @@
             "id": "a0c39c2de3016944",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad6470ef4fc22cee",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "鹿兒島見學/心得報告.md",
@@ -26,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48a4d1703ca008a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/螢幕擷取畫面 2023-04-05 222834.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -186,23 +167,29 @@
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:插入模板": false,
+      "daily-notes:開啟今天的每日筆記": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templates:插入模板": true,
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ad6470ef4fc22cee",
+  "active": "4393a65da3496edc",
   "lastOpenFiles": [
-    "演算法/Karatsuba 與傳統大數相乘.md",
-    "images/螢幕擷取畫面 2023-04-05 222834.png",
-    "README.md",
-    "images/Pasted image 20230405224435.png",
-    "images/Pasted image 20230405224319.png",
+    "鹿兒島見學/~$心得報告.pptx",
+    "鹿兒島見學/心得報告.pptx",
+    "鹿兒島見學/心得報告.pandoc.md",
     "鹿兒島見學/心得報告.md",
+    "鹿兒島見學/~$心得報告.docx",
+    "鹿兒島見學/心得報告.docx",
+    "鹿兒島見學/心得報告.html",
+    "演算法/Karatsuba 與傳統大數相乘.md",
+    "attachments/螢幕擷取畫面 2023-04-05 222834.png",
+    "README.md",
+    "attachments/Pasted image 20230405224435.png",
+    "attachments/Pasted image 20230405224319.png",
     "Pasted image 20230405223831.png",
-    "images/Pasted image 20230405223346.png",
-    "images",
+    "attachments/Pasted image 20230405223346.png",
+    "attachments",
     "演算法/大數乘法/未命名.md",
     "演算法/大數乘法",
     "演算法",
