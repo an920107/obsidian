@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4274e65fff6205f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鹿兒島見學/心得報告.md"
+                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md"
               }
             }
           },
@@ -173,12 +186,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4393a65da3496edc",
+  "active": "4274e65fff6205f8",
   "lastOpenFiles": [
+    "未命名.md",
+    "Java/VSCode for Java、JavaFX 設置 (Windows).md",
+    "Java",
+    "鹿兒島見學/心得報告.md",
     "鹿兒島見學/~$心得報告.pptx",
     "鹿兒島見學/心得報告.pptx",
     "鹿兒島見學/心得報告.pandoc.md",
-    "鹿兒島見學/心得報告.md",
     "鹿兒島見學/~$心得報告.docx",
     "鹿兒島見學/心得報告.docx",
     "鹿兒島見學/心得報告.html",
@@ -200,8 +216,6 @@
     "Excalidraw/Drawing 2023-03-24 15.35.06.excalidraw.md",
     "未命名.canvas",
     "Linux/外觀/終端機美化.md",
-    "2023-03-24.md",
-    "Linux/技術",
-    "Linux/外觀"
+    "2023-03-24.md"
   ]
 }
