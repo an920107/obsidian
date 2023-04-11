@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4274e65fff6205f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
+                "file": "鹿兒島見學/心得報告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md",
+                "file": "鹿兒島見學/心得報告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/VSCode for Java、JavaFX 設置 (Windows).md"
+                "file": "鹿兒島見學/心得報告.md"
               }
             }
           },
@@ -186,10 +173,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4274e65fff6205f8",
+  "active": "a0c39c2de3016944",
   "lastOpenFiles": [
-    "未命名.md",
     "Java/VSCode for Java、JavaFX 設置 (Windows).md",
+    "未命名.md",
     "Java",
     "鹿兒島見學/心得報告.md",
     "鹿兒島見學/~$心得報告.pptx",
