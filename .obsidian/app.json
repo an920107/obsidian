@@ -6,10 +6,11 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 100
+    "margin": "0",
+    "downscalePercent": 90
   },
   "attachmentFolderPath": "attachments"
 }
