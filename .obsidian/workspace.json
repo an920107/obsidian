@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d342faff900bbfb",
+        "id": "265afec1a5b37fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c39c2de3016944",
+            "id": "71e2b215edc239b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
-                "mode": "source",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4c85f8a41119004e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鹿兒島見學/心得報告.md",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鹿兒島見學/心得報告.md"
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md"
               }
             }
           },
@@ -173,8 +181,22 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a0c39c2de3016944",
+  "active": "71e2b215edc239b3",
   "lastOpenFiles": [
+    "Linux/技術/使用 iwctl 連接 wifi.md",
+    "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
+    "Linux/Arch Linux 安裝指南/0. Arch Linux 安裝指南.md",
+    "Linux/技術/Arch Linux 的套件管理.md",
+    "attachments/Pasted image 20231030233556.png",
+    "attachments/Pasted image 20231030233422.png",
+    "Linux/技術/未命名",
+    "Linux/技術/架設網頁伺服器.md",
+    "README.md",
+    "Linux/技術/Linux 基礎.md",
+    "Linux/外觀/Arch Linux 安裝指南.md",
+    "Linux/Arch Linux 安裝指南",
+    "鹿兒島見學/心得報告.md",
+    "Linux/Arch Linux 安裝指南",
     "attachments/Pasted image 20230412095619.png",
     "attachments/Pasted image 20230412093942.png",
     "attachments/Pasted image 20230412093912.png",
@@ -183,15 +205,9 @@
     "attachments/Pasted image 20230412093611.png",
     "attachments/Pasted image 20230412093559.png",
     "attachments/Pasted image 20230412093416.png",
-    "attachments/Pasted image 20230412093340.png",
-    "attachments/Pasted image 20230412093223.png",
-    "attachments/Pasted image 20230412093138.png",
     "演算法/Karatsuba 與傳統大數相乘.md",
-    "Linux/技術/Linux 基礎.md",
-    "Linux/技術/架設網頁伺服器.md",
     "Linux/技術/修改 apt 鏡像站.md",
     "Linux/外觀/終端機美化.md",
-    "鹿兒島見學/心得報告.md",
     "Java/VSCode for Java、JavaFX 設置 (Windows).md",
     "未命名.md",
     "Java",
@@ -201,12 +217,8 @@
     "鹿兒島見學/~$心得報告.docx",
     "鹿兒島見學/心得報告.docx",
     "鹿兒島見學/心得報告.html",
-    "README.md",
     "attachments",
     "演算法/大數乘法/未命名.md",
-    "演算法/大數乘法",
-    "演算法",
-    "鹿兒島見學",
     "Excalidraw/Drawing 2023-03-24 15.35.06.excalidraw.md",
     "未命名.canvas",
     "2023-03-24.md"

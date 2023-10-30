@@ -1,0 +1,8 @@
+{
+  "ide_mappings": "vscode",
+  "keyshot_mappings": true,
+  "case_sensitive": true,
+  "shuffle_rounds_amount": 10,
+  "carets_via_double_ctrl": false,
+  "quick_switch_via_double_shift": false
+}

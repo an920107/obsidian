@@ -1,8 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "livePreview": true,
   "defaultViewMode": "source",
   "pdfExportSettings": {
