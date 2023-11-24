@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/外觀/終端機美化.md",
+                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/外觀/終端機美化.md",
+                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/外觀/終端機美化.md",
+                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/外觀/終端機美化.md"
+                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "71e2b215edc239b3",
   "lastOpenFiles": [
-    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
     "Linux/外觀/終端機美化.md",
+    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
     "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
     "Linux/Arch Linux 安裝指南/0. Arch Linux 安裝指南.md",
     "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
