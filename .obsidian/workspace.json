@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "265afec1a5b37fe8",
+        "id": "b5e3293807e5c4a3",
         "type": "tabs",
         "children": [
           {
@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
-                "mode": "preview",
+                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
+                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
+                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/5. Troubleshooting.md"
+                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md"
               }
             }
           },
@@ -171,36 +171,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "71e2b215edc239b3",
   "lastOpenFiles": [
-    "Linux/外觀/終端機美化.md",
-    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
-    "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
-    "Linux/Arch Linux 安裝指南/0. Arch Linux 安裝指南.md",
-    "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
-    "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+    "attachments/螢幕快照 2023-10-31 19-56-26.png",
     "Linux/Arch Linux 安裝指南/3. 使用者界面美化.md",
-    "attachments/螢幕快照 2023-10-31 23-30-16.png",
-    "attachments/螢幕快照 2023-10-31 23-30-12.png",
-    "attachments/螢幕快照 2023-10-31 22-59-16.png",
-    "attachments/螢幕快照 2023-10-31 20-03-11.png",
     "attachments/螢幕快照 2023-10-31 19-40-45 2.png",
     "attachments/螢幕快照 2023-10-31 19-40-45 1.png",
     "attachments/螢幕快照 2023-10-31 19-40-45.png",
+    "attachments/螢幕快照 2023-10-31 20-03-11.png",
+    "attachments/螢幕快照 2023-10-31 22-59-16.png",
+    "attachments/Pasted image 20230412092336.png",
+    "attachments/Pasted image 20230412093559.png",
+    "attachments/Pasted image 20230412093611.png",
+    "attachments/Pasted image 20230412093850.png",
+    "attachments/Pasted image 20230412093912.png",
+    "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+    "Linux/外觀/終端機美化.md",
+    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
+    "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
+    "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
+    "Linux/Arch Linux 安裝指南/0. Arch Linux 安裝指南.md",
     "Linux/技術/使用 iwctl 連接 wifi.md",
     "Linux/技術/Arch Linux 的套件管理.md",
-    "attachments/Pasted image 20231030233556.png",
-    "attachments/Pasted image 20231030233422.png",
     "Linux/技術/未命名",
     "Linux/技術/架設網頁伺服器.md",
     "README.md",
@@ -209,7 +211,6 @@
     "Linux/Arch Linux 安裝指南",
     "鹿兒島見學/心得報告.md",
     "Linux/Arch Linux 安裝指南",
-    "attachments/Pasted image 20230412095619.png",
     "演算法/Karatsuba 與傳統大數相乘.md",
     "Linux/技術/修改 apt 鏡像站.md",
     "Java/VSCode for Java、JavaFX 設置 (Windows).md",
