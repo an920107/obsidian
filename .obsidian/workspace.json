@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md"
+                "file": "Linux/Arch Linux 安裝指南/1. 安裝系統.md"
               }
             }
           },
@@ -196,13 +196,17 @@
   },
   "active": "2b5941f4fa545772",
   "lastOpenFiles": [
+    "Linux/技術/Arch Linux 的套件管理.md",
+    "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
     "Linux/Arch Linux 安裝指南/1. 安裝系統.md",
     "Linux/Arch Linux 安裝指南/3. 使用者界面美化.md",
-    "Linux/外觀/終端機美化.md",
-    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
     "Linux/Arch Linux 安裝指南/5. Troubleshooting.md",
+    "Linux/外觀/終端機美化.md",
+    "Linux/技術/修改 apt 鏡像站.md",
+    "Linux/技術/架設網頁伺服器.md",
+    "Linux/技術/使用 iwctl 連接 wifi.md",
     "Linux/Arch Linux 安裝指南/0. Arch Linux 安裝指南.md",
-    "Linux/Arch Linux 安裝指南/2. 中文與輸入法.md",
+    "Linux/Arch Linux 安裝指南/4. 終端機美化.md",
     "attachments/螢幕快照 2023-10-31 19-56-26.png",
     "attachments/螢幕快照 2023-10-31 19-40-45 2.png",
     "attachments/螢幕快照 2023-10-31 19-40-45 1.png",
@@ -213,10 +217,7 @@
     "attachments/Pasted image 20230412093559.png",
     "attachments/Pasted image 20230412093611.png",
     "attachments/Pasted image 20230412093850.png",
-    "Linux/技術/使用 iwctl 連接 wifi.md",
-    "Linux/技術/Arch Linux 的套件管理.md",
     "Linux/技術/未命名",
-    "Linux/技術/架設網頁伺服器.md",
     "README.md",
     "Linux/技術/Linux 基礎.md",
     "Linux/外觀/Arch Linux 安裝指南.md",
@@ -224,7 +225,6 @@
     "鹿兒島見學/心得報告.md",
     "Linux/Arch Linux 安裝指南",
     "演算法/Karatsuba 與傳統大數相乘.md",
-    "Linux/技術/修改 apt 鏡像站.md",
     "Java/VSCode for Java、JavaFX 設置 (Windows).md",
     "未命名.md",
     "Java",
